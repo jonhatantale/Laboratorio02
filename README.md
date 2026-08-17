@@ -7,3 +7,5 @@ Integrantes:
 - Jonhatan Orlando Talé de León 1612926
 
 Aplicación de consola creada para practicar Git.
+
+Curso: Git y GitHub
