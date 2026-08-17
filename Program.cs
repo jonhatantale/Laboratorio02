@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Holaa equipo");
+﻿Console.WriteLine("Hola equipo");
